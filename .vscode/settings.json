@@ -1,0 +1,8 @@
+{
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.defaultLanguage": "python3",
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "leetcode.workspaceFolder": "/media/ww/DATA_02/Documents/leetcode",
+    "leetcode.hint.configWebviewMarkdown": false,
+    "leetcode.hint.commentDescription": false,
+}

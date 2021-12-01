@@ -1,2 +1,2 @@
-# leetcode_problem
-my code for solving problem of leetcode
+# leetcode_solution
+my solution code for problem on leetcode
